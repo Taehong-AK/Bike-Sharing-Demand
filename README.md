@@ -11,4 +11,4 @@ I made a machine learning model using Rainforest Classifier model.
 The outcome of the profect is to forecast the demand of Bike-Sharing-Service.
 Analysing the historical data including: [Rental-Count, rental_date_time, Season, holiday, workingday, weather, temp, atemp, humidity], I was able to forecast the number of Bike-Sharing-Service count per hour.
 
-I believe such businesses could benifit alot from my prediction if they make a right use of it with distributional data of GPS.
+I believe such businesses could gain efficiency from my prediction if they make a right use of it with distributional data of GPS.
